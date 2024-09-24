@@ -1,2 +1,0 @@
-# About
-The system aims to facilitate the work of employees who create tenant registration cards (containing tenant information such as SSN, name, marital status, phone number, tenant type - student/PhD student/teacher, etc.), review, update, and finalize (i.e., archive the card for students who have left the dormitory) the cards, as well as process the tenants' monthly bill payments. Only registered users should be able to work with the system, meaning a username and password are required for access.
